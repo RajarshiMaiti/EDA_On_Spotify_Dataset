@@ -65,7 +65,6 @@ Loudness and energy exhibit a strong positive correlation.
 
 Some artists appear frequently in top tracks, indicating consistency in popularity.
 
-6. Conclusion & Future Scope
 
 **Conclusion:-**
 
